@@ -1,1 +1,1 @@
-# label-musical-python
+# Projet Python - Label Musical Indépendant
