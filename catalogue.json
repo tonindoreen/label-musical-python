@@ -1,0 +1,48 @@
+catalogue.json
+[
+  {
+    "id": "ART-001"
+    "nom": "Fally Ipupa",
+    "genre": "Afrobeat",
+    "pays": "RDC",
+    "albums": [  
+     {
+       "titre": "Power Kosa Leka",
+       test123
+       "annee": 2013,
+       "streams":4200000
+     },
+     { 
+       "titre": "Tokooos",
+       "annee": 2017,
+       "streams": 6800000
+     }
+   ]
+  },    
+  {
+    "id": "ART-002",
+    "nom": "Wizkid",
+    "genre": "Afrobeats",
+    "pays": "Nigeria",
+    "albums": [
+     {
+       "titre": "Made in Lagos",
+       "annee": 2020,
+       "streams":9500000
+    }
+   ]
+  },
+  {
+    "id": "ART-003",
+    "nom": "Josey",
+    "genre": "Coupé-Décalé",
+    "pays": "Cote d'Ivoire",  
+    "albums": [
+     {
+       "titre": "Cocktail",
+       "annee": 2016,
+       "streams":2100000
+     }
+    ]
+   }
+ ]
